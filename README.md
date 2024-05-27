@@ -1,2 +1,1 @@
-# coquette-site
-coquett
+# mysitePalmeiras
